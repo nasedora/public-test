@@ -7,4 +7,7 @@ add test.txt
 modify readme
 del test.txt
 
+modify readme 
+add test2.txt
+
 
