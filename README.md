@@ -22,4 +22,5 @@ del test3.txt
 add test.txt
 add test5.txt
 
-
+modify readme
+rename test5 to test6
